@@ -1,0 +1,1 @@
+Este proyecto está hecho por Víctor y Ray, y consistirá en ver cómo funciona el control de versiones, GitHub y la sincronización entre dos usuarios del mismo proyecto.
