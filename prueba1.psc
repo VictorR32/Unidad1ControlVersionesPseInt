@@ -4,5 +4,6 @@ Proceso prueba1
 	b <- a + 5;
 	c <- b * 2
 	Escribir "La suma de tu numero y 5, con su multiplicación por 2 es: ", c;
-	
+	Escribir "Esto va a dar fallos"
+
 FinProceso
