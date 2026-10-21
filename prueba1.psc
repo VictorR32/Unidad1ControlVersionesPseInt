@@ -1,6 +1,6 @@
 Proceso prueba1
 	
 	Leer a;
-	Escribir a;
+	Escribir "Hola, ", a, "!";
 	
 FinProceso
